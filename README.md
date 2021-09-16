@@ -5,15 +5,15 @@ https://hackmd.io/@abhinavmir/habitat
 
 ## Launch A Community On Habitat And Document Feedback
 
-✅ Change your username
-✅ Top-up the gas tank
-✅ Create a virtual erc-20
-✅ Create a community
-✅ Create a treasury
-✅ Create a proposal
+✅ Change your username <br>
+✅ Top-up the gas tank <br>
+✅ Create a virtual erc-20 <br>
+✅ Create a community <br>
+✅ Create a treasury <br>
+✅ Create a proposal <br>
 
-🔲 Deposit a governance token from Ethereum L1 to Habitat
-✅ Request Withdrawal from Habitat to Mainnet
-🔲 Deploy your own virtual erc-20 on Mainnet
-✅ Create treasury proposal with virtual erc-20 token
+🔲 Deposit a governance token from Ethereum L1 to Habitat <br>
+✅ Request Withdrawal from Habitat to Mainnet <br>
+🔲 Deploy your own virtual erc-20 on Mainnet <br>
+✅ Create treasury proposal with virtual erc-20 token <br>
 🔲 Let the vote run and finalize the attached transfers or actions, e.g. payout to community members

@@ -1,6 +1,8 @@
 # CharityDAO
 A DAO that decides where to spend the $ according to voting.
 
+ `Submission by Catplotlib and Abhinavmir`
+
 YouTube Video: https://youtu.be/vt5yfvaQ2m8
 
 https://hackmd.io/@abhinavmir/habitat
